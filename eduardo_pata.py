@@ -5,3 +5,4 @@ print('Anton Fedak: assino por baixo!')
 print("Concordo :)")
 
 print("O formador nao vai aparecer")
+print("Teste")
