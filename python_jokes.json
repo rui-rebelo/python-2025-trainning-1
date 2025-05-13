@@ -1,0 +1,31 @@
+{
+  "piadas": [
+    {
+      "id": 1,
+      "piada": "Por que o Python não consegue fazer amigos? Porque ele tem problemas de identação!",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 2,
+      "piada": "Quantos programadores Python são necessários para trocar uma lâmpada? Nenhum, porque é um problema de hardware!",
+      "autor": "Stack Overflow"
+    },
+    {
+      "id": 3,
+      "piada": "Por que os programadores Python odeiam natureza? Porque eles preferem espaços a tabs!",
+      "autor": "Reddit"
+    },
+    {
+      "id": 4,
+      "piada": "Qual é o prato favorito do Pythonista? Snake_case!",
+      "autor": "GitHub"
+    },
+    {
+      "id": 5,
+      "piada": "O que o Python disse para o JSON? 'Você é muito stringy para mim!'",
+      "autor": "Twitter"
+    }
+  ],
+  "total_piadas": 5,
+  "linguagem": "Python"
+}
